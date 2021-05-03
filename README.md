@@ -1,4 +1,8 @@
 # Sms-Bomber
 Bomber SMS for Iranians
-1. python installer.py
-2. python SmsBomber.py
+1. cd Sms-Bomber
+2.chmod +x *
+3. python installer.py
+4. python SmsBomber.py
+
+Enter your Nomber Phone (+98)!!!!
